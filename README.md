@@ -2,7 +2,8 @@
 ## 26 SWCON 파이썬 스터디 at 전자정보대학 227호
 
 ### 1주차 학습: OT, Github 사용법, 변수, 자료형 Ⅰ (int, str)
-
+[colab](2026_PYTHONSTUDY
+/WEEK1.ipynb)
 ### 2주차 학습: 자료형 Ⅱ (list, tuple, set, dict)
 
 ### 3주차 학습: 조건문과 반복문
