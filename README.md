@@ -1,4 +1,5 @@
 # 2026_PYTHONSTUDY
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=SWCON+PYTHON+STUDY+LET'S+GO)](https://git.io/typing-svg)
 ## 26 SWCON 파이썬 스터디 at 전자정보대학 227호
 
 ### 1주차 학습: OT, Github 사용법, 변수, 자료형 Ⅰ (int, str)
