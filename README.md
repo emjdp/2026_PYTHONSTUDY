@@ -5,7 +5,7 @@
 ### 1주차 학습: OT, Github 사용법, 변수, 자료형 Ⅰ (int, str)
 [colab](WEEK1.ipynb)
 ### 2주차 학습: 자료형 Ⅱ (list, tuple, set, dict)
-
+[colab](WEEK2.ipynb)
 ### 3주차 학습: 조건문과 반복문
 
 ### 4주차 학습: Functions (시험 문법) 
