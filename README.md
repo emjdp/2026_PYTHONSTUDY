@@ -7,7 +7,7 @@
 ### 2주차 학습: 자료형 Ⅱ (list, tuple, set, dict)
 [실습 코드](WEEK2.ipynb)
 ### 3주차 학습: 조건문과 반복문
-
+[실습 코드](WEEK3.ipynb)
 ### 4주차 학습: Functions (시험 문법) 
 [실습 코드](WEEK4.ipynb)
 ### Practice Exam : 실제 시험 양식을 바탕으로 한 모의 시험 (Quiz + Code test)
