@@ -10,4 +10,5 @@
 [실습 코드](WEEK3.ipynb)
 ### 4주차 학습: Functions (시험 문법) 
 [실습 코드](WEEK4.ipynb)
-### Practice Exam : 실제 시험 양식을 바탕으로 한 모의 시험 (Quiz + Code test)
+### 5주차 학습: Object-Oriented Programming (OOP, 객체지향프로그래밍) 
+[실습 코드](WEEK5.ipynb)
