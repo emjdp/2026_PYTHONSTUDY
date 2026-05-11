@@ -12,3 +12,5 @@
 [실습 코드](WEEK4.ipynb)
 ### 5주차 학습: Object-Oriented Programming (OOP, 객체지향프로그래밍) 
 [실습 코드](WEEK5.ipynb)
+### 6주차 학습: Class - Inheritance, @classmethod 
+[실습 코드](WEEK6.ipynb)
